@@ -1,0 +1,26 @@
+Internet Speed,Bundled Services,No of Share Line,Plan Name,Service Provider,Share Line Price(RM),Unlimited Calls,Unlimited SMS,Unlimited SMS Binary,Sum of Data Quota(GB),Sum of No of Bundled Service,Price per GB ,Price per Month,Data Plan Type,Adjusted_Data_Quota,Data_Type,Adjusted_Price_per_GB,Budget_Category
+5G,None,None,UNI5G Postpaid 69,Unifi,None,Yes,No,0,99999,0,RM0.00,RM69,Unlimited,,Unlimited,,Premium
+5G/4G,Free unlimited roaming in Singapore,Available,Infinite Basic,Yes,Custom,Yes,Yes,1,99999,1,RM0.00,RM58,Unlimited,,Unlimited,,Premium
+5G/4G,Free unlimited roaming in Singapore,Available,Infinite Premium,Yes,Custom,Yes,Yes,1,99999,1,RM0.00,RM118,Unlimited,,Unlimited,,Premium
+5G/4G,Free unlimited roaming in Singapore,Available,Infinite Standard,Yes,Custom,Yes,Yes,1,99999,1,RM0.00,RM88,Unlimited,,Unlimited,,Premium
+5G/4G,Free unlimited roaming in Singapore,Available,Infinite Ultra,Yes,Custom,Yes,Yes,1,99999,1,RM0.00,RM178,Unlimited,,Unlimited,,Premium
+5G/4G,None,1,Maxis Postpaid 109,Maxis,48,Yes,Yes,1,99999,0,RM0.00,RM109,Unlimited,,Unlimited,,Premium
+5G/4G,None,2,Maxis Postpaid 139,Maxis,48,Yes,Yes,1,99999,0,RM0.00,RM139,Unlimited,,Unlimited,,Premium
+5G/4G,None,3,Maxis Postpaid 169,Maxis,48,Yes,Yes,1,99999,0,RM0.00,RM169,Unlimited,,Unlimited,,Premium
+5G/4G,None,4,Maxis Postpaid 169,Maxis,48,Yes,Yes,1,99999,0,RM0.00,RM199,Unlimited,,Unlimited,,Premium
+5G/4G,None,None,Maxis Postpaid 89,Maxis,None,Yes,Yes,1,99999,0,RM0.00,RM89,Unlimited,,Unlimited,,Premium
+5G/4G,None,None,Power 35,Yes,None,Yes,Yes,1,99999,0,RM0.00,RM35,Unlimited,,Unlimited,,Budget-Friendly
+5G/4G,None,None,UNI5G Postpaid 99,Unifi,None,Yes,No,0,99999,0,RM0.00,RM99,Unlimited,,Unlimited,,Premium
+5G/4G,"Prime Video, Viu Premium, WebShield, Roaming",6,Postpaid 5G 190,Celcomdigi,Custom(50%),Yes,No,0,99999,4,RM0.00,RM190,Unlimited,,Unlimited,,Premium
+5G/4G,"Viu Premium, WebShield",6,Postpaid 5G 120,Celcomdigi,Custom(10%),Yes,No,0,99999,2,RM0.00,RM120,Unlimited,,Unlimited,,Premium
+5G/4G,"Viu Premium, WebShield",6,Postpaid 5G 140,Celcomdigi,Custom(50%),Yes,No,0,99999,2,RM0.00,RM140,Unlimited,,Unlimited,,Premium
+5G/4G,"Viu Premium, WebShield",6,Postpaid 5G 160,Celcomdigi,Custom(50%),Yes,No,0,99999,2,RM0.00,RM160,Unlimited,,Unlimited,,Premium
+5G/4G,"Best deals phones, First 6 months ULTRA WatchShare, Free Incoming Calls from Abroad in SG, IDN & TH",None,ULTRA Postpaid 68,U Mobile,None,Yes,No,0,1000,4,RM0.07,RM68,Limited,,Limited,RM0.07,Premium
+5G/4G,"Best deals phones, First 6 months ULTRA WatchShare, Free Incoming Calls from Abroad over 60 Destinations",None,ULTRA Global,U Mobile,None,Yes,No,0,1000,3,RM0.10,RM98,Limited,,Limited,RM0.10,Premium
+5G/4G,"Exclusive Promo: Buy 1 Free 1 5G phone, First 6 Months ULTRA WatchShare, Free Incoming Calls over 60 Destinations",4,ULTRA Family 128,U Mobile,None,Yes,No,0,1000,3,RM0.13,RM128,Limited,,Limited,RM0.13,Premium
+5G/4G,"Viu Premium, WebShield",6,Postpaid 5G 100,Celcomdigi,Custom(10%),Yes,No,0,600,2,RM0.17,RM100,Limited,,Limited,RM0.17,Premium
+5G/4G,First 6 Months ULTRA WatchShare,None,ULTRA Postpaid 45,U Mobile,None,Yes,No,0,500,1,RM0.09,RM45,Limited,,Limited,RM0.09,Budget-Friendly
+5G/4G,None,3,Postpaid 5G 80,Celcomdigi,Custom(10%),Yes,No,0,400,0,RM0.20,RM80,Limited,400,Limited,RM0.20,Premium
+5G/4G,None,None,Postpaid 5G 65 SE,Celcomdigi,None,Yes,No,0,250,0,RM0.26,RM65,Limited,250,Limited,RM0.26,Premium
+5G/4G,None,None,Postpaid 5G 45 SE,Celcomdigi,None,Yes,No,0,100,0,RM0.45,RM45,Limited,100,Limited,RM0.45,Budget-Friendly
+5G/4G,"Free RM20 TNG voucher, Get 230GB data from only RM1",None,Unifi Postpaid 39,Unifi,None,Yes,No,0,30,2,RM1.30,RM39,Limited,30,Limited,RM1.30,Budget-Friendly
